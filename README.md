@@ -2,7 +2,7 @@ Smart Control of Traffic Light System using Artificial Intelligence
 
 This AI-driven traffic light control project uses real-time data to optimize signal timings, reducing congestion, delays, and fuel waste. By dynamically managing traffic flow and prioritizing emergencies, it improves travel efficiency and safety for both motorists and pedestrians.
 
-<img width="307" alt="image" src="https://github.com/user-attachments/assets/c8b86752-908c-4e1e-ba2e-53274746db85" />
+<img width="307" alt="image" src="https://github.com/user-attachments/assets/c8b86752-908c-4e1e-ba2e-53274746db85"/>
 
 
 This Adaptive Traffic Signal Timer uses live images from the cameras at traffic junctions for traffic density calculation using YOLO object detection and sets the signal timers accordingly, thus reducing the traffic congestion on roads, providing faster transit to people, and reducing fuel consumption.
